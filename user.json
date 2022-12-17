@@ -1,0 +1,37 @@
+{
+    "Product": {
+        "name": "Kolbasa",
+        "opis": "made in Kazakhstan",
+        "cost": 1000
+        
+    },
+    "Product2": {
+        "name": "ChokolateKZ",
+        "opis": "made in Kazakhstan",
+        "cost": 500
+        
+    },
+    "Product3": {
+        "name": "Kartoshka",
+        "opis": "made in Kazakhstan",
+        "cost": 120
+        
+    },
+    "Product4": {
+        "name": "Morkov",
+        "opis": "made in Kazakhstan",
+        "cost": 150
+        
+    },
+    "Product5": {
+        "name": "Onion",
+        "opis": "made in Kazakhstan",
+        "cost": 100
+        
+    },
+    "Product6": {
+        "name": "Kapusta",
+        "opis": "made in Kazakhstan",
+        "cost": 200
+        
+    }}

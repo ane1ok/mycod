@@ -1,0 +1,37 @@
+{
+    "1_team": {
+        "title": "Nike Air Max 270 Sneakers",
+        "desc": "Step up your style game with these trendy Nike Air Max 270 sneakers, featuring a comfortable fit and sleek design",
+        "users": 119
+    
+    },
+    "2_team": {
+        "title": "Adidas Forum Low",
+        "desc": "The same details and attitude first introduced on the hardwood back in '84 still pulse through the adidas Forum Low shoes. All ages and styles are covered here.",
+        "users": 390
+
+    },
+    "3_team": {
+        "title": "LEO MESSI JERSEYS",
+        "desc": "Shop the official Lionel Messi adidas collection today. Browse a selection of Messi's signature cleats and some of his favorite gear for men, women, and kids.",
+        "users": 1600
+
+    },
+    "4_team": {
+        "title": "Stan Smith Lux shoes",
+        "desc": "If you are bored with what is in your closet, its time to shake things up with adidas new releases for men.",
+        "users": 90
+
+    },
+    "5_team": {
+        "title": "Adilette 22 Slides",
+        "desc": "Find the latest clothing, shoes and athletic gear designed to bring out your A game.",
+        "users": 150
+    
+    },
+    "6_team": {
+        "title": "Running Sneakers",
+        "desc": "Team up with adidas and use our running shoe finder to choose your ideal running shoe.",
+        "users": 500
+    }
+}
